@@ -1,7 +1,7 @@
 {
   "name": "auth-email",
   "version": "1.0.0",
-  "description": "",
+  "description": "Envía email con un código para usarlo en otra ruta o almacenarlo en una variable son los milisegundos desde el 1/01/1971",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["envíar código por email","nodemailer"],
+  "author": "Luis Navas",
   "license": "ISC"
 }
