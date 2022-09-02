@@ -1,6 +1,6 @@
 {
   "name": "auth-email",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Envía email con un código para usarlo en otra ruta o almacenarlo en una variable son los milisegundos desde el 1/01/1971",
   "main": "index.js",
   "directories": {
